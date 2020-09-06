@@ -7,7 +7,6 @@ A script "VBAStock solution.vbs" is created inside the VBAStocks folder, which l
 * Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
 * The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
 * The total stock volume of the stock.
-
+* Stocks with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume"
 
 Conditional formatting that highlights positive change in green and negative change in red is utilized.
-
